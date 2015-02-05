@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="11" passed="11">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="41459" started-at="2015-01-28T11:23:19Z" finished-at="2015-01-28T11:24:00Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="41459" started-at="2015-01-28T11:23:19Z" finished-at="2015-01-28T11:24:00Z">
+      <class name="com.example.tests.GroupCreation">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.example.tests.GroupCreation@1ffcba5]" name="setUp" is-config="true" duration-ms="15" started-at="2015-01-28T17:23:19Z" finished-at="2015-01-28T17:23:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="AddGrop(com.example.tests.GroupObject)[pri:0, instance:com.example.tests.GroupCreation@1ffcba5]" name="AddGrop" duration-ms="11606" started-at="2015-01-28T17:23:19Z" data-provider="groupsFromFile" finished-at="2015-01-28T17:23:30Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[GroupObject [null:name2094822661]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddGrop -->
+        <test-method status="PASS" signature="AddGrop(com.example.tests.GroupObject)[pri:0, instance:com.example.tests.GroupCreation@1ffcba5]" name="AddGrop" duration-ms="2656" started-at="2015-01-28T17:23:30Z" data-provider="groupsFromFile" finished-at="2015-01-28T17:23:33Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[GroupObject [null:name1748576241]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddGrop -->
+        <test-method status="PASS" signature="AddGrop(com.example.tests.GroupObject)[pri:0, instance:com.example.tests.GroupCreation@1ffcba5]" name="AddGrop" duration-ms="2981" started-at="2015-01-28T17:23:33Z" data-provider="groupsFromFile" finished-at="2015-01-28T17:23:36Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[GroupObject [null:name-905353468]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddGrop -->
+        <test-method status="PASS" signature="AddGrop(com.example.tests.GroupObject)[pri:0, instance:com.example.tests.GroupCreation@1ffcba5]" name="AddGrop" duration-ms="2716" started-at="2015-01-28T17:23:36Z" data-provider="groupsFromFile" finished-at="2015-01-28T17:23:39Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[GroupObject [null:name499114953]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddGrop -->
+        <test-method status="PASS" signature="AddGrop(com.example.tests.GroupObject)[pri:0, instance:com.example.tests.GroupCreation@1ffcba5]" name="AddGrop" duration-ms="2745" started-at="2015-01-28T17:23:39Z" data-provider="groupsFromFile" finished-at="2015-01-28T17:23:41Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[GroupObject [null:name84309397]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddGrop -->
+        <test-method status="PASS" signature="AddGrop(com.example.tests.GroupObject)[pri:0, instance:com.example.tests.GroupCreation@1ffcba5]" name="AddGrop" duration-ms="2850" started-at="2015-01-28T17:23:41Z" data-provider="groupsFromFile" finished-at="2015-01-28T17:23:44Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[GroupObject [null:name1572185574]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddGrop -->
+        <test-method status="PASS" signature="AddGrop(com.example.tests.GroupObject)[pri:0, instance:com.example.tests.GroupCreation@1ffcba5]" name="AddGrop" duration-ms="3237" started-at="2015-01-28T17:23:44Z" data-provider="groupsFromFile" finished-at="2015-01-28T17:23:47Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[GroupObject [null:name-17993403]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddGrop -->
+        <test-method status="PASS" signature="AddGrop(com.example.tests.GroupObject)[pri:0, instance:com.example.tests.GroupCreation@1ffcba5]" name="AddGrop" duration-ms="2808" started-at="2015-01-28T17:23:47Z" data-provider="groupsFromFile" finished-at="2015-01-28T17:23:50Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[GroupObject [null:name1565203279]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddGrop -->
+        <test-method status="PASS" signature="AddGrop(com.example.tests.GroupObject)[pri:0, instance:com.example.tests.GroupCreation@1ffcba5]" name="AddGrop" duration-ms="3123" started-at="2015-01-28T17:23:50Z" data-provider="groupsFromFile" finished-at="2015-01-28T17:23:53Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[GroupObject [null:name-827379365]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddGrop -->
+        <test-method status="PASS" signature="AddGrop(com.example.tests.GroupObject)[pri:0, instance:com.example.tests.GroupCreation@1ffcba5]" name="AddGrop" duration-ms="3060" started-at="2015-01-28T17:23:53Z" data-provider="groupsFromFile" finished-at="2015-01-28T17:23:56Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[GroupObject [null:name-1664068716]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddGrop -->
+        <test-method status="PASS" signature="AddGrop(com.example.tests.GroupObject)[pri:0, instance:com.example.tests.GroupCreation@1ffcba5]" name="AddGrop" duration-ms="3294" started-at="2015-01-28T17:23:56Z" data-provider="groupsFromFile" finished-at="2015-01-28T17:24:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[GroupObject [null:еп ке]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddGrop -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.example.tests.GroupCreation@1ffcba5]" name="tearDown" is-config="true" duration-ms="341" started-at="2015-01-28T17:24:00Z" finished-at="2015-01-28T17:24:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.example.tests.GroupCreation -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
