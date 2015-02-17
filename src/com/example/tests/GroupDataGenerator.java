@@ -12,6 +12,8 @@ import java.util.Random;
 
 import org.testng.annotations.DataProvider;
 
+import com.example.fw.GroupObject;
+
 public class GroupDataGenerator {
 	
 	static Random rnd = new Random();
